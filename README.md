@@ -25,6 +25,7 @@ Página para baixar a última versão: https://thall.es/viewtopic.php?t=16
 Fórum de suporte, temas e extensões: https://thall.es/viewforum.php?f=8
 
 
+## ScreenShot Desktop:
 
 ![1Wiki ScreenShot Desktop 1](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%201.png)
 
@@ -46,3 +47,10 @@ Fórum de suporte, temas e extensões: https://thall.es/viewforum.php?f=8
 
 ![1Wiki ScreenShot Desktop 7](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%207.png)
 
+
+## ScreenShot Mobile:
+
+![1Wiki ScreenShot Mobile 1](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20ScreenShot%20Mobile%201.jpg)
+
+
+![1Wiki ScreenShot Mobile 2](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20ScreenShot%20Mobile%202.jpg)
