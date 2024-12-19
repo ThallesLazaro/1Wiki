@@ -23,3 +23,18 @@ Demonstração do 1Wiki funcionando: https://1wiki.thall.es/1Wiki
 Página para baixar a última versão: https://thall.es/viewtopic.php?t=16
 
 Fórum de suporte, temas e extensões: https://thall.es/viewforum.php?f=8
+
+
+![1Wiki ScreenShot Desktop 1](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%201.png)
+
+![1Wiki ScreenShot Desktop 2](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%202.png)
+
+![1Wiki ScreenShot Desktop 3](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%203.png)
+
+![1Wiki ScreenShot Desktop 4](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%204.png)
+
+![1Wiki ScreenShot Desktop 5](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%205.png)
+
+![1Wiki ScreenShot Desktop 6](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%206.png)
+
+![1Wiki ScreenShot Desktop 7](https://github.com/ThallesLazaro/1Wiki/blob/main/1Wiki%20Desktop%20ScreenShot%207.png)
