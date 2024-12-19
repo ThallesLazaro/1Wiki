@@ -1,4 +1,4 @@
-# 1Wiki: Uma Ferramenta Simples e Poderosa para Criação de Wikis Pessoais
+# 1Wiki - Wiki de Um Só Arquivo
 
 O 1Wiki é uma ferramenta rápida, extensível e auto-suficiente para criar notebooks pessoais, bancos de dados e wikis não lineares. Inspirado no Feather Wiki, o 1Wiki se destaca pela combinação de simplicidade, estilo moderno e praticidade de uso. Toda a aplicação e o conteúdo criado são armazenados em um único arquivo HTML, que pode ser facilmente salvo, compartilhado ou publicado.
 
