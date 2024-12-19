@@ -20,6 +20,6 @@ Com o 1Wiki, você tem em mãos uma ferramenta poderosa, flexível e moderna par
 
 Demonstração do 1Wiki funcionando: https://1wiki.thall.es/1Wiki
 
-Topico com atualizações em tempo real: https://thall.es/viewtopic.php?t=16
+Página para baixar a última versão: https://thall.es/viewtopic.php?t=16
 
-Fórum de Suporte, Temas, Extensões: https://thall.es/viewforum.php?f=8
+Fórum de suporte, temas e extensões: https://thall.es/viewforum.php?f=8
